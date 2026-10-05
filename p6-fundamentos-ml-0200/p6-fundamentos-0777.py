@@ -163,4 +163,4 @@ print(f"(5 > 10) or (10 > 5): {or_res}")
 not_res = not(5 > 3)
 print(f"not(5 > 3): {not_res}")
 
-print("A-A-A-A-A-A-A-A-A-A-A-A")
+print(" Alejandra Rivera Valenzuela NC = 0200")
